@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: linear-gradient(to right, rgb(23, 249, 249) , rgb(97, 255, 181));
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
